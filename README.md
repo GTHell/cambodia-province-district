@@ -1,6 +1,6 @@
-# cambodia-province-district
+# ឈ្មោះខេត្ត និងឈ្មោះស្រុករបស់ប្រទេសកម្ពុជា - cambodia-province-district
 
-ទិន្ន័យខេត្តស្រុករបស់ប្រទេសខ្មែរជាទម្រង់JSONងាយស្រួលក្នុងការ Copy & Paste 😋 
+ទិន្ន័យខេត្តស្រុករបស់ប្រទេសកម្ពុជាជាទម្រង់JSONងាយស្រួលក្នុងការ Copy & Paste 😋 
 
 ការរៀបទិន្នន័យជាJSON :
 ```
