@@ -1,6 +1,6 @@
 # cambodia-province-district
 
-បង្កើតឡើងក្នុងគោលបំណងទុកប្រើថ្ងៃក្រោយ ព្រោពិបាកចិត្តរឿងស្រុកយើងមានអង្ការររធ្វើ Open sourceច្រើនតែរកតែទិន្ន័យរបស់ប្រទេសខ្មែរជាទ្រង់ទ្រាយJSONមួយគ្មាន😋 
+ទិន្ន័យខេត្តស្រុករបស់ប្រទេសខ្មែរជាទម្រង់JSONងាយស្រួលក្នុងការ Copy & Paste 😋 
 
 ការរៀបទិន្នន័យជាJSON :
 ```
